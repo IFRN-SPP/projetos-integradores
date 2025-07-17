@@ -1,5 +1,8 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
-
+## Rumix
+- Equipe: [Matheus Fabricio](https://github.com/MatheusFabSouza), [Joao Paulo](https://github.com/dvjpa) e [Gabriel Sinedino](https://github.com/GSO-GPU)
+- Descrição: Rumix é um assistente de gerenciamento de itens e de propriedades privadas, totalmente voltado ao meio rural. Focado em agricultores e em pessoas interessadas no setor agrícola, auxilia na manutenção e no gerenciamento de propriedades e recursos.
+- Github: https://github.com/MatheusFabSouza/RuMix
 ## 2024
 ### FFA .finance
 - Equipe: [Ademacir Filho](https://github.com/ademacirfilho), [Francisco Cledson](https://github.com/deAssisF) e [Francisco Guilherme](https://github.com/FGMDev)
