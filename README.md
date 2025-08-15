@@ -1,5 +1,10 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
+## Rumix
+- Equipe: [Matheus Fabricio](https://github.com/MatheusFabSouza), [João Paulo](https://github.com/dvjpa), [Gabriel Sinedino](https://github.com/GSO-GPU)
+- Descrição: Rumix foi criado para atender o publico voltado ao campo agricola, sendo um sistema focado em admnistração de propriedade.
+- Github: https://github.com/MatheusFabSouza/Rumix
+
 ### Potengi Digital: Tecnologia, Formação e Mundo do Trabalho na Região Potengi
 - Equipe: [Clara Souza](https://github.com/clarasouzas), [Joice Santos](https://github.com/jleilhany), [Elayne Fernandes](https://github.com/elaynefernandes)
 - Descrição: O projeto tem como finalidade mapear as demandas de Tecnologia da Informação (TI) e acompanhar as dinâmicas do mundo do trabalho na região do Potengi/RN, visando fortalecer a inserção profissional dos estudantes dos cursos técnicos do IFRN – Campus São Paulo do Potengi.
