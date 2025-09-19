@@ -1,5 +1,10 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
+### EduQBank
+- Equipe: [Otton Pierre](https://github.com/OttonPierre), [Gustavo Lunnyê](https://github.com/Gusta567u) e [João Pedro](https://github.com/oi-jotape)
+- Descrição:  é um projeto de extensão que visa a criação de um banco de questões educacionais focado nas disciplinas que compõem o Exame Nacional do Ensino Médio (ENEM), com ênfase inicial nas áreas de Química e Matemática. A iniciativa tem como objetivo principal fornecer uma plataforma digital gratuita e acessível para professores e alunos de todo o Brasil, permitindo a elaboração de provas, listas de exercícios e o estudo para o ENEM.
+- Github: https://github.com/OttonPierre/EduQBank
+
 ### Control
 - Equipe: [Fernando César](https://github.com/cesarfcg), [Pedro Henrique](https://github.com/Pedro44-henrique44), [Lucas Thierry](https://github.com/lucasthierry9)
 - Descrição: O Control é um software que ajuda empresas a gerir seus negócios, através de cadastro de produtos, clientes, análise de vendas, entre outros. Através dele, as empresas poderão se cadastrar e ter acesso à dashboards, gráficos e outras funcionalidades que atuam perante o gerenciamento de vendas de sua empresa.
