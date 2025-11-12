@@ -1,5 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
+
+### Didacta Vision
+- Equipe: [Álvaro Yuri](https://github.com/alvarogit-ops), [Danilo Lima](https://github.com/dlslima) e [Rafael dos Santos](https://github.com/rafael-santosdev)
+- Descrição: O projeto é um sistema web educacional para gerenciar e divulgar sessões de filmes com temáticas científicas, permitindo que a comunidade visualize a agenda de sessões, e acesse conteúdos educativos na instituição.
+- Github: https://github.com/rafael-santosdev/Didacta-Vision
+
 ### EduQBank
 - Equipe: [Otton Pierre](https://github.com/OttonPierre), [Gustavo Lunnyê](https://github.com/Gusta567u) e [João Pedro](https://github.com/oi-jotape)
 - Descrição:  é um projeto de extensão que visa a criação de um banco de questões educacionais focado nas disciplinas que compõem o Exame Nacional do Ensino Médio (ENEM), com ênfase inicial nas áreas de Química e Matemática. A iniciativa tem como objetivo principal fornecer uma plataforma digital gratuita e acessível para professores e alunos de todo o Brasil, permitindo a elaboração de provas, listas de exercícios e o estudo para o ENEM.
