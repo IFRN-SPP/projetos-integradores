@@ -2,8 +2,8 @@
 ## 2025
 
 ### Site NUARTE-SPP
-- Equipe: [Sônia Isis](https://github.com/Sunny-Creature/)
-- Descrição: ff
+- Equipe: [Sônia Isis](https://github.com/Sunny-Creature), [Sabrina Silva](https://github.com/SabrinaSilva-16), [Bruno Octavio](https://github.com/bru-artys)
+- Descrição: Projeto com objetivo de criar um site para o Núcleo de Artes do Potengi (NUARTE-SPP), apresentando a história, grupos, eventos e plataformas do núcleo.
 - Github: https://github.com/Sunny-Creature/Site-NUARTE-SPP
 
 ### Didacta Vision
