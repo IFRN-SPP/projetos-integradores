@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
 
+### Site NUARTE-SPP
+- Equipe: [Sônia Isis](https://github.com/Sunny-Creature/)
+- Descrição: ff
+- Github: https://github.com/Sunny-Creature/Site-NUARTE-SPP
+
 ### Didacta Vision
 - Equipe: [Álvaro Yuri](https://github.com/alvarogit-ops), [Danilo Lima](https://github.com/dlslima) e [Rafael dos Santos](https://github.com/rafael-santosdev)
 - Descrição: O projeto é um sistema web educacional para gerenciar e divulgar sessões de filmes com temáticas científicas, permitindo que a comunidade visualize a agenda de sessões, e acesse conteúdos educativos na instituição.
