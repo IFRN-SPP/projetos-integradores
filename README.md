@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2025
 
+### site FITCROL
+- Equipe [João Emanuel](https://github.com/jedsg777), [Carlos Eduardo Costa](https://github.com/eduardolemoscosta), [Luiz Felipe Silva](https://github.com/LuizFelipegit).
+- Descrição: projeto com objetivo de auxiliar gestão de eventos e crônogramas de academias com mecânicas que auxiliam na atualização regular do site e contato com os clientes de acadêmia.
+- Github: https://github.com/eduardolemoscosta/projeto-integrador-academia-2025
+
 ### Site NUARTE-SPP
 - Equipe: [Sônia Isis](https://github.com/Sunny-Creature), [Sabrina Silva](https://github.com/SabrinaSilva-16), [Bruno Octavio](https://github.com/bru-artys)
 - Descrição: Projeto com objetivo de criar um site para o Núcleo de Artes do Potengi (NUARTE-SPP), apresentando a história, grupos, eventos e plataformas do núcleo.
