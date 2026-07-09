@@ -1,10 +1,10 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
-### Sistema de Monitoramento do Nível de Água em Cisternas 
-- Equipe: Letícia Lima, Clara Francelino
-- Descrição: O Sistema de Monitoramento do Nível de Água em Cisternas permite acompanhar a quantidade de água armazenada de forma simples e eficiente.
-- Github: https://github.com/limaleticia2-ux/Sistema-de-Monitoramento-do-N-vel-de-gua-em-Cisternas-
+### Pro Gym
+- Equipe: [Ayhan Everton](https://github.com/ayhandev), [Gustavo Ivo](https://github.com/gustaIvo14),  [José Cassiano](https://github.com/jcassiano33).
+- Descrição: Projeto com o objetivo de gerenciar academias.
+- Github: https://github.com/jcassiano33/Pro-Gym
 
 ### RuyRotas
 - Equipe: [Laiza Beatriz](https://github.com/laiza-beatriz), [Samuel Robert](https://github.com/samuelcamara-cloud).
