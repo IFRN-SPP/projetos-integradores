@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### RuyRotas
+- Equipe: [Laiza Beatriz](https://github.com/laiza-beatriz), [Samuel Robert](https://github.com/samuelcamara-cloud).
+- Descrição: Projeto para gerenciar os transportes e rotas de Ruy Barbosa.
+- Github: https://github.com/laiza-beatriz/RuyRotas
+
 ### RuyFrotas
 - Equipe: [Pedro Emanuel](https://github.com/pedro-vitorino), [Nicolly Gomes](https://github.com/nicolly-gomes-16)
 - Descrição: RuyFrotas é um projeto que visa desenvolver um software, inicialmente um website, cuja principal função será administrar as frotas municipais de Ruy Barbosa - RN.
