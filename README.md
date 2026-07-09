@@ -1,10 +1,10 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
-### Sistema de Monitoramento do Nível de Água em Cisternas 
-- Equipe: Letícia Lima, Clara Francelino
-- Descrição: O Sistema de Monitoramento do Nível de Água em Cisternas permite acompanhar a quantidade de água armazenada de forma simples e eficiente.
-- Github: https://github.com/limaleticia2-ux/Sistema-de-Monitoramento-do-N-vel-de-gua-em-Cisternas-
+### GuiaSuap
+- Equipe: [Almira Beatriz](https://github.com/Almirabeatrizz), [Emanuelly Maria](https://github.com/EmanuellyLimaa)
+- Descrição: GuiaSuap é um projeto que visa desenvolver um software, para auxiliar os novos alunos do IFRN do ensino médio tecnico no uso do suap.
+- Github: https://github.com/EmanuellyLimaa/GuiaSuap.git
 
 ### RuyRotas
 - Equipe: [Laiza Beatriz](https://github.com/laiza-beatriz), [Samuel Robert](https://github.com/samuelcamara-cloud).
@@ -15,6 +15,8 @@
 - Equipe: [Pedro Emanuel](https://github.com/pedro-vitorino), [Nicolly Gomes](https://github.com/nicolly-gomes-16)
 - Descrição: RuyFrotas é um projeto que visa desenvolver um software, inicialmente um website, cuja principal função será administrar as frotas municipais de Ruy Barbosa - RN.
 - Github: https://github.com/Pedro-Vitorino/RuyFrotas
+
+
 
 ## 2025
 
