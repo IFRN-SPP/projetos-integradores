@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### Portal NAPNE
+- Equipe: [Ibrahim Guilherme](https://github.com/GuilhermeIbrahim), [Luanna Davi](https://github.com/LuannaDavi)
+- Descrição: O projeto Portal Napne tem como objetivo atender as demandas específicas do NAPNE do IFRN-SPP quanto a organização e estrutura comunicativa do núcleo, principalmente quanto ao envio e recebimento do PEI. 
+- Github: https://github.com/GuilhermeIbrahim/portal-napne
+
 ### Sistema de Monitoramento do Nível de Água em Cisternas 
 - Equipe: Letícia Lima, Clara Francelino
 - Descrição: O Sistema de Monitoramento do Nível de Água em Cisternas permite acompanhar a quantidade de água armazenada de forma simples e eficiente.
