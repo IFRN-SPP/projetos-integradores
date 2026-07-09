@@ -1,4 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
+## 2026
+
+### RuyFrotas
+- Equipe: [Pedro Emanuel](https://github.com/pedro-vitorino), [Nicolly Gomes](https://github.com/nicolly-gomes-16)
+- Descrição: RuyFrotas é um projeto que visa desenvolver um software, inicialmente um website, cuja principal função será administrar as frotas municipais de Ruy Barbosa - RN.
+- Github: https://github.com/Pedro-Vitorino/RuyFrotas
+
 ## 2025
 
 ### site FITCROL
