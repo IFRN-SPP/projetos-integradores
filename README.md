@@ -21,6 +21,11 @@
 - Descrição: Rede miradas é um projeto que tem o objetivo de implementar audiovisual em outras instituições. 
 - Github: https://github.com/danybarreto2008/Rede-Miradas
 
+ ### LEM:IFRN-SPP
+- Equipe: [Emilly Laviny](https://github.com/emillylaviny), [Ana Jéssica](https://github.com/jessicamoura0355-code), [Nathalia Mileni](https://github.com/nathalia-mcs).
+- Descrição: LEM/SPP: Sistema Web para gestão e acesso a recursos didáticos do laboratório de matemática do IFRN-SPP.
+- Github: https://github.com/emillylaviny/LEM-IFRN-SPP.
+
 ## 2025
 
 ### site FITCROL
