@@ -16,6 +16,11 @@
 - Descrição: RuyFrotas é um projeto que visa desenvolver um software, inicialmente um website, cuja principal função será administrar as frotas municipais de Ruy Barbosa - RN.
 - Github: https://github.com/Pedro-Vitorino/RuyFrotas
 
+### Rede Miradas
+- Equipe: [Danielly Rodrigues](https://github.com/danybarreto2008), [Hemerson Daniel](https://github.com/ohemesx), [Ana Júlia Celestino](https://github.com/ajbelchior)
+- Descrição: Rede miradas é um projeto que tem o objetivo de implementar audiovisual em outras instituições. 
+- Github: https://github.com/danybarreto2008/Rede-Miradas
+
 ## 2025
 
 ### site FITCROL
