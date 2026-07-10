@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### Barbearia Seu Inácio
+- Equipe: [Hugo Ballack](https://github.com/ballackh-ops), [Nivaldo Bezerra](https://github.com/Nivald08)
+- Descrição: Um site que fornecerá todos os serviços oferecidos (atendimentos, vendas e etc) pela barbearia Seu Inácio.
+- Github: https://github.com/ballackh-ops/projeto-barbearia-seu-inacio
+
 ### DentalTech
 - Equipe: [Marcos Filho](https://github.com/dkmarcosfilho), [Bruno Rafael](https://github.com/br781642-cell),[José Luís](https://github.com/luicorreia09).
 - Descrição: Projeto para gerenciar uma Clinica odontológica
