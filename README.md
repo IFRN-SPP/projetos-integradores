@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### Portal NAPNE
+- Equipe: [Ayhan Everton](https://github.com/ayhandev), [Gustavo Ivo](https://github.com/gustaIvo14), [José Cassiano](https://github.com/jcassiano33)
+- Descrição: Pro Gym é um sistema voltado para gerenciamento de academias.
+- Github: https://github.com/jcassiano33/Pro-Gym
+
 ### Copa do Mundo
 - Equipe: [Manoel Messias](https://github.com/carvalhomanoel-dev)
 - Descrição: É um projeto para acompanhar a Copa do Mundo.
