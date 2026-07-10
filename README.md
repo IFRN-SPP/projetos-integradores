@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### Pro Gym
+- Equipe: [Ayhan Everton](https://github.com/ayhandev), [Gustavo Ivo](https://github.com/gustaIvo14), [José Cassiano](https://github.com/jcassiano33)
+- Descrição: Pro Gym é um sistema voltado para gerenciamento de academias.
+- Github: https://github.com/jcassiano33/Pro-Gym
+
 ### GuiaSuap
 - Equipe: [Almira Beatriz](https://github.com/Almirabeatrizz), [Emanuelly Maria](https://github.com/EmanuellyLimaa)
 - Descrição: GuiaSuap é um projeto que visa desenvolver um software, para auxiliar os novos alunos do IFRN do ensino médio técnico no uso do suap.
