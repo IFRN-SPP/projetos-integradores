@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### Copa do Mundo
+- Equipe: [Manoel Messias](https://github.com/carvalhomanoel-dev)
+- Descrição: É um projeto para acompanhar a Copa do Mundo.
+- Github: https://github.com/carvalhomanoel-dev/copa2026
+
 ### Portal NAPNE
 - Equipe: [Ibrahim Guilherme](https://github.com/GuilhermeIbrahim), [Luanna Davi](https://github.com/LuannaDavi)
 - Descrição: O projeto Portal Napne tem como objetivo atender as demandas específicas do NAPNE do IFRN-SPP quanto a organização e estrutura comunicativa do núcleo, principalmente quanto ao envio e recebimento do PEI. 
