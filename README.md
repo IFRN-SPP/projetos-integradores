@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### Sistema Laboratorial Odisseu
+- Equipe: [Anna Vitória]( https://github.com/AnnaSilva-dev ), [Maria Paula]( https://github.com/Paula-Dias17) e [Camily Zipóra]( https://github.com/izipora )
+- Descrição: Sistema que visa a digitação e emissão de laudos, relatórios e exames associados a rotina laboratorial.
+- Github: https://github.com/AnnaSilva-dev/Sistema-Laboratorial-Odisseu
+  
 ### Pro Gym
 - Equipe: [Ayhan Everton](https://github.com/ayhandev), [Gustavo Ivo](https://github.com/gustaIvo14), [José Cassiano](https://github.com/jcassiano33)
 - Descrição: Pro Gym é um sistema voltado para gerenciamento de academias.
