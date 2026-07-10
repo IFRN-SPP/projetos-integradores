@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### DentalTech
+- Equipe: [Marcos Filho](https://github.com/dkmarcosfilho), [Bruno Rafael](https://github.com/br781642-cell),[José Luís](https://github.com/luicorreia09).
+- Descrição: Projeto para gerenciar uma Clinica odontológica
+- Github: https://github.com/dkmarcosfilho/DentalTech-Sistema-Odontologico
+
 ### Sistema Laboratorial Odisseu
 - Equipe: [Anna Vitória]( https://github.com/AnnaSilva-dev ), [Maria Paula]( https://github.com/Paula-Dias17) e [Camily Zipóra]( https://github.com/izipora )
 - Descrição: Sistema que visa a digitação e emissão de laudos, relatórios e exames associados a rotina laboratorial.
