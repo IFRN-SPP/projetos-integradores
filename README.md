@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### Sistema Laboratorial Odisseu
+- Equipe: [Anna Vitória]( https://github.com/AnnaSilva-dev ), [Maria Paula]( https://github.com/Paula-Dias17) e [Camily Zipóra]( https://github.com/izipora )
+- Descrição: Sistema que visa a digitação e emissão de laudos, relatórios e exames associados a rotina laboratorial.
+- Github: https://github.com/AnnaSilva-dev/Sistema-Laboratorial-Odisseu.git
+
 ### Copa do Mundo
 - Equipe: [Manoel Messias](https://github.com/carvalhomanoel-dev)
 - Descrição: É um projeto para acompanhar a Copa do Mundo.
