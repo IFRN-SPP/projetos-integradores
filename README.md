@@ -2,9 +2,9 @@
 ## 2026
 
 ### Sistema de Suporte para Novos Estudantes
-Equipe: [Álvaro Claudino](https://github.com/alvar1505), [Kaio Luiz](https://github.com/kaiokrz), [Júlio Miguel](https://github.com/JulioMiguelLima)
-Descrição: O Sistema de Suporte para Novos Estudantes visa ser um plataforma de apoio a alunos ques estão ingressando ao IFRN
-GitHub: https://github.com/kaiokrz/Projeto-Integrador--SSNE
+- Equipe: [Álvaro Claudino](https://github.com/alvar1505), [Kaio Luiz](https://github.com/kaiokrz), [Júlio Miguel](https://github.com/JulioMiguelLima)
+- Descrição: O Sistema de Suporte para Novos Estudantes visa ser um plataforma de apoio a alunos ques estão ingressando ao IFRN
+- GitHub: https://github.com/kaiokrz/Projeto-Integrador--SSNE
 
 ### Barbearia Seu Inácio
 - Equipe: [Hugo Ballack](https://github.com/ballackh-ops), [Nivaldo Bezerra](https://github.com/Nivald08)
