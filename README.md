@@ -1,6 +1,11 @@
 # Projetos Integradores Informática para Internet - IFRN - Campus São Paulo do Potengi
 ## 2026
 
+### GuiaSuap
+- Equipe: [Almira Beatriz https://github.com/Almirabeatrizz], [Emanuelly Maria https://github.com/EmanuellyLimaa]
+- Descrição: GuiaSuap é um projeto que visa desenvolver um software, para auxiliar os novos alunos do IFRN do ensino médio técnico no uso do suap.
+- Github:https://github.com/EmanuellyLimaa/GuiaSuap 
+
 ### Copa do Mundo
 - Equipe: [Manoel Messias](https://github.com/carvalhomanoel-dev)
 - Descrição: É um projeto para acompanhar a Copa do Mundo.
